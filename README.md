@@ -10,9 +10,9 @@
 
 ## About Me
 
-My technical interests span applied cryptography and defensive cybersecurity, with a focus on security analysis, digital forensics, incident response, and understanding security mechanisms at both theoretical and practical levels.
+Interested in the intersection of cryptography and cybersecurity, from implementing cryptographic schemes to investigating security threats.
 
-I enjoy exploring cryptographic implementations, analyzing security-related problems, investigating potential threats, and developing practical skills through technical projects, research, and hands-on labs.
+My focus is on applied cryptography and defensive security, with particular interests in SOC operations, threat hunting, digital forensics, and incident response. I believe in learning by building, experimenting, and investigating real-world security problems.
 
 ## Education
 
