@@ -81,7 +81,7 @@ My focus is on applied cryptography and defensive security, with particular inte
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Event Logs](https://img.shields.io/badge/Windows_Event_Logs-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-### Areas of interest:
+## Areas of Ιnterest
 - Security Operations Center (SOC)
 - Blue Team Operations
 - Digital Forensics & Incident Response (DFIR)
