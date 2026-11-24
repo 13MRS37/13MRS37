@@ -36,7 +36,12 @@ My focus is on applied cryptography and defensive security, with particular inte
   <img src="https://img.shields.io/badge/Hack%20The%20Box-CDSA%20In%20Progress-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </a>
 
-- **HTB Certified Defensive Security Analyst (CDSA)** — Security Analysis, SOC Operations, Incident Handling, Threat Hunting, and DFIR.
+- **HTB Certified Defensive Security Analyst (CDSA)** - Security Analysis, SOC Operations, Incident Handling, Threat Hunting, and DFIR.
+
+## Hands-on Security Practice
+
+- **Hack The Box Machines:** 12 machines successfully compromised (Pwned/rooted).
+- **Hack The Box Sherlocks:** 8+ hands-on investigations completed.
 
 ## Current Focus
 
