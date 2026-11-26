@@ -40,7 +40,7 @@ My focus is on applied cryptography and defensive security, with particular inte
 
 ## Hands-on Security Practice
 
-- **Hack The Box Machines:** 12 machines successfully compromised (Pwned/rooted) - ongoing.
+- **Hack The Box Machines:** 13 machines successfully compromised (Pwned/rooted) - ongoing.
 - **Hack The Box Sherlocks:** 2 hands-on investigations completed - ongoing.
 
 ## Current Focus
