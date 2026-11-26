@@ -1,4 +1,4 @@
-# Cryptography & Cybersecurity
+## Cryptography & Cybersecurity
 
 ### Applied Cryptography | Defensive Security | SOC & DFIR
 <a href="https://www.linkedin.com/in/pmiarisgrivas">
