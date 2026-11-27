@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/pmiarisgrivas">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://profile.hackthebox.com/profile/019cbec0-deb9-709d-a4cb-fe913d90d75d">
+<a href="https://app.hackthebox.com/users/2015421">
   <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </a>
 
